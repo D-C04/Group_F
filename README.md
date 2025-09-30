@@ -6,11 +6,23 @@ This repository contains all of Group F's work related to the ENSE 271 project w
 
 xyz
 
+### 📍 Business Opportunity
+
+xyz
+
 ## 💫 Northstar & Carryover Customers 
 
 Northstar : 
 
 Carryover : 
+
+## ✅ Project Assumption(s)
+
+xyz
+
+## 🚫 Project Constraint(s)
+
+xyz
 
 ## 🤝 Group Members 
 
