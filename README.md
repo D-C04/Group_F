@@ -1,2 +1,19 @@
-# Group_7
-This is a repository for all of Group 7's work related to the ENSE 271 project with Reach Autism Learning.
+# Group_F
+
+This repository contains all of Group F's work related to the ENSE 271 project with Reach Autism Learning.
+
+## 📝 Project Background
+
+
+## 💫 Northstar & Carryover Customers 
+
+Northstar : 
+
+Carryover : 
+
+## 🤝 Group Members 
+
+Deran Cross  
+Jieun Jang  
+Ethan Langford  
+Alexa Moldovan
