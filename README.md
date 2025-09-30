@@ -4,6 +4,7 @@ This repository contains all of Group F's work related to the ENSE 271 project w
 
 ## 📝 Project Background
 
+xyz
 
 ## 💫 Northstar & Carryover Customers 
 
@@ -13,7 +14,7 @@ Carryover :
 
 ## 🤝 Group Members 
 
-Deran Cross  
+Deran Cross  *(200513336)*  
 Jieun Jang  
 Ethan Langford  
 Alexa Moldovan
