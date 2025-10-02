@@ -26,7 +26,7 @@ xyz
 
 ## 🤝 Group Members 
 
-Deran Cross  *(200513336)*  
+Deran Cross   
 Jieun Jang  
 Ethan Langford  
 Alexa Moldovan
