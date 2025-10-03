@@ -4,8 +4,8 @@
 **Date: October 3, 2025**
 
 **In Attendance:**  
-Alexa Moldovan
-Ethan Langford
+*Alexa Moldovan
+*Ethan Langford
 Deran Cross
 Jieun Jang
 Tim Maciag
