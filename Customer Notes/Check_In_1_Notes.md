@@ -19,6 +19,8 @@ Brooklyn Coulson
 *Professor:*  
 Tim Maciag  
 
+## Notes  
+
 Customers enjoyed the site map proposals and understood what we were going for.  
 
 They wanted to ensure we keep the blue colour in the final design.  
