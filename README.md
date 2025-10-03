@@ -18,20 +18,20 @@ Carryover : Family donors and volunteers looking to help children with autism.
 
 ## ✅ Project Assumption(s)
 
--Wordpress
--Restructure of the navigation
--Removing redundancy
--Homepage Redesign
--Organizing images
--Reshaping the page hierarchy
--User friendly browsing
+-Wordpress  
+-Restructure of the navigation  
+-Removing redundancy  
+-Homepage Redesign  
+-Organizing images  
+-Reshaping the page hierarchy  
+-User friendly browsing  
 
 
 ## 🚫 Project Constraint(s)
 
--Content available to us is sparse at this time - ie not many assets original to the foundation
--Ease of updating as the founder is used to Wix and he does not seem familiar with web design
--Legality of donor name placements
+-Content available to us is sparse at this time - ie not many assets original to the foundation  
+-Ease of updating as the founder is used to Wix and he does not seem familiar with web design  
+-Legality of donor name placements  
 
 
 ## 🤝 Group Members 
