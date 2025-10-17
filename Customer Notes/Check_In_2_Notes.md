@@ -17,3 +17,9 @@ Brooklyn Coulson
 
 *Professor:*  
 Tim Maciag  
+
+## Notes 
+
+* change colour on some leters in header (too bright against white background)
+* left alignment for better readability (note from brooklyn)
+* some of the 'fixed buttons/rectangles' need to block text (instead of being see through)
