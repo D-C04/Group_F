@@ -1,5 +1,5 @@
 # Usability Questionnaire  
-This questionnaire below was used to gather information on the usability of Group F's High Fidelity Prototype.
+The questionnaire below was used to gather information on the usability of Group F's High Fidelity Prototype.
 
 **Link to Questionnaire** :   
 https://docs.google.com/forms/d/e/1FAIpQLSdMQy9kODJgz8aDkRZHxUoknzbnDGKTT_R1EvpHxbJP-jMkUQ/viewform?usp=preview
