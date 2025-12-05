@@ -14,7 +14,7 @@ The project will allow users faster access to the website with easier findabilit
 
 Northstar : Parents or guardians of young children with autism who need extra resources to help them learn.
 
-Carryover : Family donors and volunteers looking to help children with autism.
+Carryover : Family, donors and volunteers looking to help children with autism.
 
 ## ✅ Project Assumption(s)
 
